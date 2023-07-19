@@ -1,0 +1,25 @@
+{
+  "name": "colyseus",
+  "version": "1.0.0",
+  "description": "Init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolong/colyseus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolong/colyseus/issues"
+  },
+  "homepage": "https://github.com/dolong/colyseus#readme",
+  "devDependencies": {
+    "@colyseus/cloud": "^1.0.4"
+  },
+  "dependencies": {
+    "@colyseus/tools": "^0.15.17"
+  }
+}
